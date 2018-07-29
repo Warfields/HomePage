@@ -31,7 +31,7 @@ Good Tools
 ----------
 - `Oh Shit Git! <http://ohshitgit.com/>`_
 - `Hangups <https://hangups.readthedocs.io/>`_
-- `Sphix <http://www.sphinx-doc.org/>`_
+- `Sphinx <http://www.sphinx-doc.org/>`_
 - `Finite State Machine Generator for Regex's (Useful for CSCI400) <http://gh.samsartor.com/regess/>`_
 - `Paysa      (How much your Employer should Pay You) <https://www.paysa.com/>`_
 - `levels.fyi (How Much the Tech Giants should Pay You) <https://www.paysa.com/>`_
