@@ -15,7 +15,7 @@ Mines Stuff
 - `Mines ACM <https://acm.mines.edu>`_
 - `Mines Linux Users Group <https://lug.mines.edu>`_
 - `Jacks Homepage <https://inside.mines.edu/~jrosenth/>`_
-- Mine Rescue Team
+- `Mine Rescue Team <http://organizations.mines.edu/minerescue/>`_
 
 Cool Dev Stuff
 --------------
