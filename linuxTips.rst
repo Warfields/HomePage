@@ -17,4 +17,17 @@ Packages Everyone Should Have
 - sl
     + acidentally type sl instead of ls, welp you now have a steam locamotive!
 
+What Linux Does for Free
+------------------------
 
+.bashrc
++++++++
+Located at ~/.bashrc, this bash script is run everytime a user opens an active terminal. This is very useful if you want your terminal to give you information about your how your well bot network is doing on launch. I use mine for for aliases and having fortune insult me.
+
+Aliases
++++++++
+These are very useful for the lazy programer, do you really want to type ``ssh aUser@isengard.mines.edu`` every single time you want to use :ref:`isengardDoc`? Hell no! We're lazy, just add ``alias isengard="ssh aUser@isengard.mines.edu"`` to your ``~/.bashrc`` and forget about remembering the address for isengard and typing it out by hand everytime.
+
+Cronjobs
+++++++++
+Need to run a bash script once a month at midnight? Use a cronjob, add them by using ``crontab -e``. `For more information... <https://en.wikipedia.org/wiki/Cron>`_

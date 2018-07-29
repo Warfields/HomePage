@@ -3,6 +3,8 @@
 Cool Servers at Mines
 =====================
 
+.. _isengardDoc:
+
 Isengard
 --------
 
