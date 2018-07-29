@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Samuel Warfield's Fun Repository!
-============================================
+Samuel Warfield
+===============
 
 .. toctree::
    :maxdepth: 2
@@ -12,6 +12,9 @@ Welcome to Samuel Warfield's Fun Repository!
    
    /howTo
    /coolLinks
+   /linuxTips
+   /servers
+   /devTools
 
 Indices
 =======

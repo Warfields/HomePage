@@ -1,3 +1,5 @@
+.. _howToMakeThis:
+
 How to Make a Site Like This
 ============================
 

@@ -16,6 +16,7 @@ help:
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
+# TODO: Add check if deploy is true
 %: Makefile
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O);
 	@rsync -avz _build/html/ pvm-jumpbox.mines.edu:/u/au/cx/warfield/html
