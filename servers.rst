@@ -1,3 +1,5 @@
+.. _servers:
+
 Cool Servers at Mines
 =====================
 

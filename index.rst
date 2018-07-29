@@ -5,6 +5,14 @@
 
 Samuel Warfield
 ===============
+Hello there! Seeing as you have found my home page you might want to
+know what's here. Well this corner of the web contains everything I
+that I wish I knew as a freshmen in Computer Science. These include
+obscure services and `free stuff I found <https://education.github.com/pack>`_.
+
+I highly suggest starting with :ref:`coolLinks` or :ref:`servers`.
+
+.. TODO: add resume
 
 .. toctree::
    :maxdepth: 2
@@ -25,4 +33,5 @@ Indices
 Currently Under Construction
 ============================
 
-Congradulations, I have nothing on this site that is interesting!
+Congradulations, I have some things that are interesting. Come back
+later and they might even be useful!

@@ -1,3 +1,5 @@
+.. _coolLinks:
+
 Links to Cool Stuff
 ===================
 
