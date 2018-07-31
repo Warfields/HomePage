@@ -14,7 +14,7 @@ I highly suggest starting with :ref:`coolLinks` or :ref:`servers`.
 
 warfield@mymail.mines.edu
 
-.. TODO: add resume
+:download:`My Resume <media/Warfield Resume.pdf>`
 
 .. toctree::
    :maxdepth: 2
