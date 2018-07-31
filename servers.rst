@@ -27,7 +27,8 @@ Imagine / Jump box
 ------------------
 
 This is the box that allows remote shells from outside of the Mines network.
-Imagine is depricated, see :ref:`imagineNote` for more information the replacement.
+Imagine is depricated, see :ref:`imagineNote` for more information the 
+replacement.
 
 ``pvm-jumpbox.mines.edu`` or ``imagine.mines.edu``
 

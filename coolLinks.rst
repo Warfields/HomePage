@@ -8,6 +8,7 @@ Free Stuff
 
 - `Git Hub Student Pack <https://education.github.com/pack>`_
 - `Iodine, A DNS Hack to get free airplane wifi <http://www.adeptus-mechanicus.com/codex/dnstun/dnstun.php>`_
+- `Source code to CS projects at Mines including Clue Source Code <https://www.youtube.com/watch?v=dQw4w9WgXcQ>`_ 
 
 Mines Stuff
 -----------

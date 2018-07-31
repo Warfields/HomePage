@@ -12,6 +12,8 @@ obscure services and `free stuff I found <https://education.github.com/pack>`_.
 
 I highly suggest starting with :ref:`coolLinks` or :ref:`servers`.
 
+warfield@mymail.mines.edu
+
 .. TODO: add resume
 
 .. toctree::
