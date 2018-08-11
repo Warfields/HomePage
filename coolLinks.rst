@@ -5,7 +5,6 @@ Links to Cool Stuff
 
 Free Stuff
 ----------
-
 - `Git Hub Student Pack <https://education.github.com/pack>`_
 - `Iodine, A DNS Hack to get free airplane wifi <http://www.adeptus-mechanicus.com/codex/dnstun/dnstun.php>`_
 - `Source code to CS projects at Mines including Clue Source Code <https://www.youtube.com/watch?v=dQw4w9WgXcQ>`_ 
@@ -20,7 +19,6 @@ Mines Stuff
 
 Cool Dev Stuff
 --------------
-
 - `Python Tutorial <https://docs.python.org/3.6/tutorial/>`_
 - `Tensor Flow Playground <http://playground.tensorflow.org/>`_
 - `Pycon <https://us.pycon.org/>`_
@@ -39,8 +37,12 @@ Good Tools
 
 Good Blogs and Comics
 ---------------------
-
 - `Mr. Money Mustach <https://www.mrmoneymustache.com/>`_
 - `Joel on Software <https://www.joelonsoftware.com>`_
 - `xkcd <https://xkcd.com/>`_
 - `Google Project Zero (Security Blog) <https://googleprojectzero.blogspot.com/>`_
+
+Places I Save Money At
+----------------------
+- `Zenni Optical (Cheap, but nice glasses) <https://www.zennioptical.com>`_
+- `Republic Wireless $20 Data Plan <https://republicwireless.com/>`_
