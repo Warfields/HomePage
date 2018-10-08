@@ -25,6 +25,7 @@ warfield@mymail.mines.edu
    /linuxTips
    /servers
    /devTools
+   /acmresearch
 
 Indices
 =======
