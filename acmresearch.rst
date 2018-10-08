@@ -1,5 +1,5 @@
-ACM Research Assistance
-=======================
+ACM (CS) Research Assistance
+============================
 
 :Author: Samuel Warfield
 :Date: 2018-10-08
@@ -26,7 +26,7 @@ Project Classifications
     - A Simple project is a small software or hardware that a student could finish
       in a short time. These are expected to introduce students to researchers and
       only have to have a well defined goal. Since the duration of these projects is
-      so short we do not expect this to be paid work. If pleased with the result, a
+      so short ACM members are willing to do this work for free. If pleased with the result, a
       donation to the ACM Club would be appreciated to help continue support for
       researchers.
 #. Large Software Projects
@@ -35,11 +35,14 @@ Project Classifications
         - If it is possible to have the final software delivery date after 
           summer session one it is highly recommend to have it be submitted 
           as Computer Science Field Session project.
-          Contact `Christopher Painter-Wakefield <cpainter@mines.edu>`_
+          Contact `Christopher Painter-Wakefield <cpainter@mines.edu>`_.
+        - Paid work is always an option to ensure that your team has
+          immediate and dedicated work. We can assemble a team for your
+          research who can do the long term development required.
         - Otherwise it can be submitted as an ACM open source project, and
-          has to adhere to ACM's `internal project policies`__,
-        - Lastly, paid work is always an option to ensure that your team has
-          immediate and dedicated work.
+          has to adhere to ACM's `internal project policies`__. If you go
+          this route you need to make sure that the project is well supported
+          by your team, please contact `Sumner Evans <jonathanevans@mines.edu>`_.
 #. Long Term IT Position
     - For long term project maintenance such Systems Administration and
       Database Management, and long term data analysis we can provide quality
