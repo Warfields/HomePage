@@ -20,4 +20,5 @@ help:
 %: Makefile
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O);
 	@rsync -avz _build/html/ pvm-jumpbox.mines.edu:/u/au/cx/warfield/html
+	@rsync -avz files/ pvm-jumpbox.mines.edu:/u/au/cx/warfield/html
 	@ssh pvm-jumpbox.mines.edu rsync -avz ./html/ warfield@illuminate:public_html
